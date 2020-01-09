@@ -19,6 +19,15 @@
 	</parent>
 
 
+	<developers>
+        <developer>
+		    <id>raul.g.pena</id>
+		    <name>Raul Peña</name>
+		    <email>raul.pena@research24x7.com</email>
+		</developer>
+    </developers>
+
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
